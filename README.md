@@ -1,5 +1,5 @@
 # **My code Fellows Reading Notes!**
-### Where i put all my reading notes :grinning: 
+### Where i put all my reading notes 
 
 Hi my name is **Hunter**, im *excited* and *nervous* to learn coding.
 

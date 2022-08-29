@@ -1,7 +1,7 @@
 # **My code Fellows Reading Notes!**
 Where i put all my reading notes. 
 
-Hi my name is **Hunter**, im excited and nervous to learn coding.
+Hi my name is **Hunter**, im *excited* and *nervous* to learn coding.
 
 growth mindset is the power to overcome obsticles in the way.
 
@@ -11,5 +11,5 @@ growth mindset is the power to overcome obsticles in the way.
 - Ask for help!
 - Prepare to fail
 
-Link to my Github is https://github.com/hmfehr
+Link to my Github is ./https://github.com/hmfehr
 

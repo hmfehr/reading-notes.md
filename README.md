@@ -11,5 +11,5 @@ growth mindset is the power to overcome obsticles in the way.
 - Ask for help!
 - Prepare to fail
 
-Link to my Github is ./https://github.com/hmfehr
+Link to my Github is [here](https://github.com/hmfehr)
 

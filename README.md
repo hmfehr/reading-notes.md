@@ -1,9 +1,9 @@
 # **My code Fellows Reading Notes!**
-Where i put all my reading notes. 
+###Where i put all my reading notes. 
 
 Hi my name is **Hunter**, im *excited* and *nervous* to learn coding.
 
-growth mindset is the power to overcome obsticles in the way.
+Growth mindset is the power to overcome obsticles in the way.
 
 3 Reminders to keep my growth mindset.
 

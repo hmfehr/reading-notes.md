@@ -1,7 +1,7 @@
 # **My code Fellows Reading Notes!**
-### Where i put all my reading notes 
+### Where I put all my reading notes 
 
-Hi my name is **Hunter**, im *excited* and *nervous* to learn coding.
+Hi my name is **Hunter**, I'm *excited* and *nervous* to learn coding.
 
 Growth mindset is the power to overcome obsticles in the way. It is to take new information to learn an understand the challenges of growth.
 

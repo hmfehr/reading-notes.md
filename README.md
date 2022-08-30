@@ -1,14 +1,13 @@
 # **My code Fellows Reading Notes!**
-### Where I put all my reading notes 
+
+## Where I put all my reading notes
 
 Hi my name is **Hunter**, I'm *excited* and *nervous* to learn coding.
 
-Growth mindset is the power to overcome obsticles in the way. It is to take new information to learn an understand the challenges of growth.
-
-3 Reminders to keep my growth mindset.
-
-- Its supposed to be hard and challenging.
-- Ask for help!
-- Prepare to fail.
-
 Link to my Github is [here](https://github.com/hmfehr)
+
+### Table of contents
+
+[class notes 1](class1notes.md)
+[class notes 2](class2notes.md)
+[class notes 3](class3notes.md)

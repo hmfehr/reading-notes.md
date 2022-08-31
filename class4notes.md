@@ -18,4 +18,16 @@ Figure out the black and white basick layouts on how you think you want your pro
 - Do your research
 - prepare research
 - Make sure user flow is mapped out
-- 
+- Draft, dont Draw. Sketck, dont illistrate
+- Add some detail and get testing
+- Start turning wireframe into prototype
+
+**three key principles**
+
+*Clarity*- Your wireframe should first decribe what the site is, what the user can do, and satisfy their needs
+
+*Confidance* - Ease of navigation think as if you were the CX (customer) make things easy to follow along
+
+*Simplicity* - Too much info can be overwhelming you dont want the user to have to dig through fluff
+
+

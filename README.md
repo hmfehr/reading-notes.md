@@ -22,7 +22,7 @@ Link to my Github is [here](https://github.com/hmfehr)
 ## Code 201 Reading Notes
 
 **_Class 201_**
-- [ ] [Reading notes 1](https://hmfehr.github.io/reading-notes/readinnotes1)
+- [ ] [Reading notes 1](ReadClassOne.md)
 - [ ] [Reading notes 2]()
 - [ ] [Reading notes 3]()
 - [ ] [Reading notes 4]()

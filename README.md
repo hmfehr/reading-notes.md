@@ -24,7 +24,7 @@ Link to my Github is [here](https://github.com/hmfehr)
 **_Class 201_**
 - [ ] [Reading notes 1](ReadClassOne.md)
 - [ ] [Reading notes 2](ReadClassTwo.md)
-- [ ] [Reading notes 3]()
+- [ ] [Reading notes 3](ReadClassThree.md)
 - [ ] [Reading notes 4]()
 - [ ] [Reading notes 5]()
 - [ ] [Reading notes 6]()

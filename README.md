@@ -34,7 +34,7 @@ Link to my Github is [here](https://github.com/hmfehr)
 - [ ] [Reading notes 10](ReadClassTen.md)
 - [ ] [Reading notes 11](ReadClassEleven.md)
 - [ ] [Reading notes 12](ReadClassTwelve.md)
-- [ ] [Reading notes 13]()
+- [ ] [Reading notes 13](ReadClassThirteen.md)
 - [ ] [Reading notes 14]()
 - [ ] [Reading notes 15]()
 

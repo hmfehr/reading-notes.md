@@ -22,23 +22,26 @@ Link to my Github is [here](https://github.com/hmfehr)
 ## Code 201 Reading Notes
 
 **_Class 201_**
-- [ ] [Reading notes 1](ReadClassOne.md)
-- [ ] [Reading notes 2](ReadClassTwo.md)
-- [ ] [Reading notes 3](ReadClassThree.md)
-- [ ] [Reading notes 4](ReadClassFour.md)
-- [ ] [Reading notes 5](ReadClassFive.md)
-- [ ] [Reading notes 6](ReadClassSix.md)
-- [ ] [Reading notes 7](ReadClassSeven.md)
-- [ ] [Reading notes 8](ReadClassEight.md)
-- [ ] [Reading notes 9](ReadClassNine.md)
-- [ ] [Reading notes 10](ReadClassTen.md)
-- [ ] [Reading notes 11](ReadClassEleven.md)
-- [ ] [Reading notes 12](ReadClassTwelve.md)
-- [ ] [Reading notes 13](ReadClassThirteen.md)
-- [ ] [Reading notes 14](ReadClassFourteen.md)
-- [ ] [Psyc Read14](ClassFourteenRead.md)
-- [ ] [Reading notes 15]()
+- [Reading notes 1](ReadClassOne.md)
+- [Reading notes 2](ReadClassTwo.md)
+- [Reading notes 3](ReadClassThree.md)
+- [Reading notes 4](ReadClassFour.md)
+- [Reading notes 5](ReadClassFive.md)
+- [Reading notes 6](ReadClassSix.md)
+- [Reading notes 7](ReadClassSeven.md)
+- [Reading notes 8](ReadClassEight.md)
+- [Reading notes 9](ReadClassNine.md)
+- [Reading notes 10](ReadClassTen.md)
+- [Reading notes 11](ReadClassEleven.md)
+- [Reading notes 12](ReadClassTwelve.md)
+- [Reading notes 13](ReadClassThirteen.md)
+- [Reading notes 14](ReadClassFourteen.md)
+- [Psyc Read14](ClassFourteenRead.md)
 
+
+## Code 301 Reading Notes 
+
+[301 Read One]()
 
 ### IMPORTANT TAKEAWAY
 

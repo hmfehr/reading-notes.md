@@ -41,7 +41,7 @@ Link to my Github is [here](https://github.com/hmfehr)
 
 ## Code 301 Reading Notes 
 
-[301 Read One]()
+[301 Read One](301ReadOne.md)
 
 ### IMPORTANT TAKEAWAY
 

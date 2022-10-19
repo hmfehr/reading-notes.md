@@ -43,6 +43,7 @@ Link to my Github is [here](https://github.com/hmfehr)
 
 - [301 Read One](301ReadOne.md)
 - [301 Read Two](301ReadTwo.md)
+- [301 Read Three](301ReadThree.md)
 
 ### IMPORTANT TAKEAWAY
 

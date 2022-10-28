@@ -50,6 +50,7 @@ Link to my Github is [here](https://github.com/hmfehr)
 - [301 Read Seven](301ReadSeven.md)
 - [301 Read Eight](301ReadEight.md)
 - [301 Read Nine](301ReadNine.md)
+- [301 Read Ten](301ReadTen.md)
 
 ### IMPORTANT TAKEAWAY
 

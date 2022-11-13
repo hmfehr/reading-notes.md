@@ -55,6 +55,7 @@ Link to my Github is [here](https://github.com/hmfehr)
 - [301 Read Ten](301ReadTen.md)
 - [301 Read Eleven](301ReadEleven.md)
 - [301 Read Twelve](301ReadTwelve.md)
+- [301 Read Thirteen](301ReadThirteen.md)
 
 ### IMPORTANT TAKEAWAY
 

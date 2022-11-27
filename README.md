@@ -60,6 +60,13 @@ Link to my Github is [here](https://github.com/hmfehr)
 - [301 Read Fifteen](301ReadFifteen.md)
 - [301 Read Sixteen](301ReadSixteen.md)
 
+## 401 Advanced JavaScript Readings and Notes
+-
+-
+-
+-
+-
+
 ### IMPORTANT TAKEAWAY
 
 | CODE        | Description | EXAMPLE       |

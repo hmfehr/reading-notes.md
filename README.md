@@ -61,7 +61,7 @@ Link to my Github is [here](https://github.com/hmfehr)
 - [301 Read Sixteen](301ReadSixteen.md)
 
 ## 401 Advanced JavaScript Readings and Notes
--
+- [401 JS Read 1](401ReadOne.md)
 -
 -
 -

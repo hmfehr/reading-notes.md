@@ -62,7 +62,7 @@ Link to my Github is [here](https://github.com/hmfehr)
 
 ## 401 Advanced JavaScript Readings and Notes
 - [401 JS Read 1](401ReadOne.md)
--
+- [401 JS Read 2](401ReadTwo.md)
 -
 -
 -

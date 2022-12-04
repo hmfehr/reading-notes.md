@@ -65,6 +65,7 @@ Link to my Github is [here](https://github.com/hmfehr)
 - [Practice in the Terminal](practiceInTheTerminal.md)
 - [Data Strutures and Algorithms](dataStruturesAndAlgorithms.md)
 - [Engineering Readings](engineeringReadings.md)
+- [The Growth Mindset](theGrowthMindset.md)
 
 ## 401 Advanced JavaScript Readings and Notes
 - [401 JS Read 1](401ReadOne.md)

@@ -63,7 +63,7 @@ Link to my Github is [here](https://github.com/hmfehr)
 
 ## Advanced JavaScript Prep and Notes
 - [Practice in the Terminal](practiceInTheTerminal.md)
-- 
+- [Data Strutures and Algorithms](dataStruturesAndAlgorithms.md)
 - 
 
 ## 401 Advanced JavaScript Readings and Notes

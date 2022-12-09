@@ -77,6 +77,7 @@ Link to my Github is [here](https://github.com/hmfehr)
 - [401 JS Read 7](401ReadSeven.md)
 - [401 JS Read 8](401ReadEight.md)
 - [401 JS Read 9](401ReadNine.md)
+- [401 JS Read 10](401ReadTen.md)
 
 
 ### IMPORTANT TAKEAWAY

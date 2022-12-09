@@ -9,9 +9,9 @@ Explain a detail in depth
 Use WHY, WHAT, HOW structure
 -
 Tutorial / walk through an example
--
+- going into the dmv and you check in and they give you a ticket based on what you are there to do and the order in which others got there first so you have to wai your time.
 Write a quiz
--
+- can node value be anything other then a number. Yes you can have a string or anything that you can declare the value for
 Create a vocabulary/definition list
 - Common terminology for a queue is
 
@@ -32,3 +32,8 @@ Build a map of the information
 -
 Construct a fill-in-the-blank worksheet for the topic
 -
+
+
+
+
+

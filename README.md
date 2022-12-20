@@ -82,6 +82,8 @@ Link to my Github is [here](https://github.com/hmfehr)
 - [401 JS Read 12](401ReadTwelve.md)
 - [401 JS Read 13](401ReadThirteen.md)
 - [401 JS Read 14](401ReadFourteen.md)
+- [401 JS Read 15](401ReadFifteen.md)
+- [401 JS Read 16](401ReadSixteen.md)
 
 
 

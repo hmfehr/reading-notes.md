@@ -93,6 +93,7 @@ Link to my Github is [here](https://github.com/hmfehr)
 - [401 JS Read 29](401ReadTwentyNine.md)
 - [401 JS Read 30](401ReadThirty.md)
 - [401 JS Read 31](401ReadThirtyOne.md)
+- [401 JS Read 32](401ReadThirtyTwo.md)
 
 ### IMPORTANT TAKEAWAY
 

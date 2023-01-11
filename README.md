@@ -94,6 +94,7 @@ Link to my Github is [here](https://github.com/hmfehr)
 - [401 JS Read 30](401ReadThirty.md)
 - [401 JS Read 31](401ReadThirtyOne.md)
 - [401 JS Read 32](401ReadThirtyTwo.md)
+- [401 JS Read 33](401ReadThirtyThree.md)
 
 ### IMPORTANT TAKEAWAY
 
